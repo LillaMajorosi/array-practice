@@ -1,0 +1,22 @@
+{
+  "name": "array-practice",
+  "version": "1.0.0",
+  "description": "You can use this repository as a template for your repository or copy the files into your repository manually",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LillaMajorosi/array-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LillaMajorosi/array-practice/issues"
+  },
+  "homepage": "https://github.com/LillaMajorosi/array-practice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
